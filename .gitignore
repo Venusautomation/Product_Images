@@ -1,0 +1,10 @@
+﻿.idea/
+.vscode/
+__pycache__/
+*.env
+*.key
+*.json
+*.log
+*.tmp
+*.xlsx
+*.csv
